@@ -162,3 +162,4 @@ function library:CreateWindows()
     end
     return GayLib
 end
+return library
